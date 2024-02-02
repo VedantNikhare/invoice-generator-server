@@ -1,6 +1,5 @@
 {
   "name": "server",
-  "homepage": "arcinvoice.com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Panshak Solomon",
+  "author": "Vedant Nikhare",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
